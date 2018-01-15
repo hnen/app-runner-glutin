@@ -1,0 +1,11 @@
+[package]
+name = "app-runner-glutin"
+version = "0.1.0"
+authors = ["Härski <harski@cru.fi>"]
+
+[dependencies]
+glutin = "*"
+gl = "*"
+libc = "*"
+error-chain = "0.11.0"
+
